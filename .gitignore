@@ -1,0 +1,6 @@
+node_modules/
+*.out
+*.log
+_*
+.DS_Store
+Thumbs.db
